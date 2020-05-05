@@ -5,7 +5,7 @@ def func(text):
     if text_update_2 == list(text_update_1):
         answer = 'да, эта строка палиндром'
     else:
-        answer = 'нет, это строка не палиндром'
+        answer = 'нет, это строка не палиндромххххххх'
     return answer
 
 
